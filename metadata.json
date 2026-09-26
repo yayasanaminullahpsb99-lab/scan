@@ -1,0 +1,10 @@
+{
+  "name": "DocuScan - Scan Foto ke Dokumen PDF",
+  "description": "Aplikasi pemindai dokumen mudah dan cepat: scan foto berkas/dokumen, atur urutan halaman, terapkan filter pembersih dokumen, dan unduh langsung sebagai file PDF berkualitas tinggi.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
